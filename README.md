@@ -63,7 +63,7 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com?user=Rikiah&theme=merko&mode=weekly" alt="readme stats" />
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=rikiah&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=rikiah&count_private=true&show_icons=true&theme=merko&rank_icon=github&border_radius=10" alt="readme stats" />
 
     
   <br/>
