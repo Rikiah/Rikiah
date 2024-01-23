@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Crete+Round&weight=300&duration=4000&pause=&color=16CA2F&center=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BD;I'm+Rikiah!" />
 </h1>
 
-<h3 align="center"> Full-Stack software developer from Birmingham, United Kingdom 🇬🇧 </h3>
+<h3 align="center"> Full-Stack Software Developer from Birmingham, United Kingdom 🇬🇧 </h3>
 
 <br/>
 
@@ -14,7 +14,7 @@
  
 🌱 I’m currently learning **AWS & Typescript**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Rikiah/Rikiah/issues)**
+💬 Ask me about ** Javascript, Next.JS ... or anything [here](https://github.com/Rikiah/Rikiah/issues)**
 
 ⚡️ Fun fact **The QWERTY layout keyboard was designed to slow you down!**
 
@@ -34,7 +34,15 @@
 
  <hr/>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
+<br/>
+<hr/>
 
 
 
