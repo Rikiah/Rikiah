@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Crete+Round&weight=300&duration=4000&pause=&color=16CA2F&center=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BD;I'm+Rikiah!" />
 </h1>
 
-<h3 align="center"> Full-Stack software developer from Birmingham, United Kingdon 🇬🇧 </h3>
+<h3 align="center"> Full-Stack software developer from Birmingham, United Kingdom 🇬🇧 </h3>
 
 <br/>
 
@@ -20,6 +20,19 @@
 
 </div>
 
+<div align="center"> 
+  <a href="mailto:rikiahjwilliams@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/rikiah-williams/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://rikiah-williams.netlify.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+</div>
+
+ <hr/>
 
 
 
