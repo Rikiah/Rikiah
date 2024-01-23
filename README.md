@@ -37,9 +37,9 @@
 <h2 align="center"> Languages, Frameworks & Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,vscode,github,figma,tailwind,git" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,nextjs,typescript,express,supabase,mysql,postgres" />
-    <img src="https://skillicons.dev/icons?i=vercel,render,netlify,vitest,postman,jest, aws" /><br>
+    <img src="https://skillicons.dev/icons?i=vercel,netlify,vitest,postman,jest, aws" />
 </div>
 
 <br/>
