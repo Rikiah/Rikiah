@@ -46,7 +46,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> My Contributions </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rikiah/rikiah/output/github-contribution-grid-snake.svg" />
   <picture>
@@ -59,7 +59,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"> Stats </h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com?user=Rikiah&theme=merko&mode=weekly" alt="readme stats" />
@@ -77,18 +77,9 @@
 <br/>
 
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Crete+Round&weight=300&duration=4000&pause=&color=16CA2F&center=true&random=false&width=435&lines=Thanks+For+Visiting!+%F0%9F%91%8B%F0%9F%8F%BD;Drop+me+a+message!" />
+</h1>
 
-<!--
-**Rikiah/Rikiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
