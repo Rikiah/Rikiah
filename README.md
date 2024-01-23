@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rikiah.Rikiah" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rikiah!;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Crete+Round&weight=300&pause=1000&color=16CA2F&vCenter=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BD;I'm+Rikiah!)](https://git.io/typing-svg)" />
 </h1>
 
 
