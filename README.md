@@ -77,9 +77,6 @@
 <br/>
 
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Crete+Round&weight=300&duration=4000&pause=&color=16CA2F&center=true&random=false&width=435&lines=Thanks+For+Visiting!+%F0%9F%91%8B%F0%9F%8F%BD;Drop+me+a+message!" />
-</h1>
 
 
 
