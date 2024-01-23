@@ -16,7 +16,7 @@
 
 💬 Ask me about ** Javascript, Next.JS ... or anything [here](https://github.com/Rikiah/Rikiah/issues)**
 
-⚡️ Fun fact **The QWERTY layout keyboard was designed to slow you down!**
+⚡️ A Fun fact: **The QWERTY layout keyboard was designed to slow you down!**
 
 </div>
 
@@ -45,6 +45,15 @@
 <br/>
 <hr/>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Rikiah/Rikiah/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
 
 
 
