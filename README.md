@@ -10,7 +10,7 @@
 
 <div align="center">
  
-🔭 I’m currently working on **V2.0 of my Portfolio**
+🔭 I’m currently working on **My personal project**
  
 🌱 I’m currently learning **AWS & Typescript**
 
@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/rikiah-williams/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://rikiah-williams.netlify.app/" target="_blank">
+  <a href="https://rikiah.engineer/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
